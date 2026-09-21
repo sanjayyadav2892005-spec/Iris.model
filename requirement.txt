@@ -1,0 +1,6 @@
+pandas
+joblin
+sklearn.model_selection
+sklearn.linear_model
+sklearn.metrics
+numpy
